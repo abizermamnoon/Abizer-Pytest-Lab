@@ -1,5 +1,5 @@
 
-Pytest Lab![https://github.com/abizermamnoon/Abizer-Pytest-Lab/actions?query=workflow%3Atests](https://github.com/abizermamnoon/Abizer-Pytest-Lab/workflows/tests/badge.svg)
+Pytest Lab# Pytest Lab [![](https://github.com/abizermamnoon/Abizer-Pytest-Lab/workflows/tests/badge.svg)](https://github.com/abizermamnoon/Abizer-Pytest-Lab/actions?query=workflow%3Atests)
 ##Pytest Lab
 
 In this lab you will walk through the basic procedure for creating and contributing to an open source project.
