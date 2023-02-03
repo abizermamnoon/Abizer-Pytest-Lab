@@ -1,4 +1,6 @@
-# Pytest Lab
+
+Pytest Lab![https://github.com/abizermamnoon/Abizer-Pytest-Lab/actions?query=workflow%3Atests](https://github.com/abizermamnoon/Abizer-Pytest-Lab/workflows/tests/badge.svg)
+##Pytest Lab
 
 In this lab you will walk through the basic procedure for creating and contributing to an open source project.
 You will also walk through how to use the pytest framework for running test cases.
